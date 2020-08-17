@@ -23,10 +23,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 If the installation was successful, you should be able to run the following command.
 
     $ node --version
-    v12.16.1
 
     $ npm --version
-    6.13.4
 
 If you need to update `npm`, you can make it using `npm`! After running the following command, just open again the command line and be happy.
 
