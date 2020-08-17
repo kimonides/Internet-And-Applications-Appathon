@@ -1,7 +1,7 @@
 # Internet and Applications Appathon
 
 ## Youtube Link
-https://www.youtube.com/watch?v=h_pdOxZ190Y&feature=youtu.be
+https://youtu.be/h_pdOxZ190Y
 ## Requirements
 
 For development, you will only need Node.js,PostgreSQL and a node global package installed in your environement.
